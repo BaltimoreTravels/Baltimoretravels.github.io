@@ -712,8 +712,8 @@ section.lazy-placeholder:after {
 }
 .cid-rdT99wLqwB {
   background: #faecc9;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 .cid-rdT99wLqwB .image-block {
   margin: auto;
@@ -730,6 +730,10 @@ section.lazy-placeholder:after {
   .cid-rdT99wLqwB .image-block {
     width: 100% !important;
   }
+}
+.cid-rdT99wLqwB DIV {
+  color: #465052;
+  text-align: center;
 }
 .cid-rkN3dN1mvb {
   padding-top: 90px;
